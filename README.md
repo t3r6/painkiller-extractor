@@ -27,3 +27,7 @@ It is a small `.exe` binary along with the source code to build it.
 This tool is not suitable for level archives and system scripts. It may not correctly unpack some files.
 
 Alternatively, use [Painfull Extractor]( http://pkrc.ru/load/painkiller/programmy/painfull_extractor_raspakovshhik_pak_fajlov/28-1-0-124) or [Dragon UnPACKer](https://www.elberethzone.net/dragon-unpacker.html).
+
+## Additional extractor tool
+
+`pak2zip.exe` is an additional tool to extract .pak resources from Painkiller Exclusive Retail Demo (alpha version of Painkiller).
